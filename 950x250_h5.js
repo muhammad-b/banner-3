@@ -42,7 +42,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,950,250);
 
 	this.addChild(this.shape);
 }).prototype = p = new cjs.Container();
-p.nominalBounds = new cjs.Rectangle(0,0,50,50);
+p.nominalBounds = new cjs.Rectangle(0,0,50,150);
 
 
 // stage content:
